@@ -2,3 +2,7 @@
 	path = ltcguthrie.github.io
 	url = https://github.com/ltcguthrie/ltcguthrie.github.io.git
 	branch = main
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/ltcguthrie/ltcguthrie.github.io.git
+	branch = main
