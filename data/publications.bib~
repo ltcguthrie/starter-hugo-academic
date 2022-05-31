@@ -1,0 +1,71 @@
+@article{wallace2015structure,
+  title={Structure and inhibition of microbiome $\beta$-glucuronidases essential to the alleviation of cancer drug toxicity},
+  author={Wallace, Bret D and Roberts, Adam B and Pollet, Rebecca M and Ingle, James D and Biernat, Kristen A and Pellock, Samuel J and Venkatesh, Madhu Kumar and Guthrie, Leah and O’Neal, Sara K and Robinson, Sara J and others},
+  journal={Chemistry \& biology},
+  volume={22},
+  number={9},
+  pages={1238--1249},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{guthrie2017human,
+  title={Human microbiome signatures of differential colorectal cancer drug metabolism},
+  author={Guthrie, Leah and Gupta, Sanchit and Daily, Johanna and Kelly, Libusha},
+  journal={NPJ biofilms and microbiomes},
+  volume={3},
+  number={1},
+  pages={1--8},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{kernell2015opar,
+  title={OpaR controls a network of downstream transcription factors in Vibrio parahaemolyticus BB22OP},
+  author={Kernell Burke, Alison and Guthrie, Leah TC and Modise, Thero and Cormier, Guy and Jensen, Roderick V and McCarter, Linda L and Stevens, Ann M},
+  journal={PLoS One},
+  volume={10},
+  number={4},
+  pages={e0121863},
+  year={2015},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{guthrie2019bringing,
+  title={Bringing microbiome-drug interaction research into the clinic},
+  author={Guthrie, Leah and Kelly, Libusha},
+  journal={EBioMedicine},
+  volume={44},
+  pages={708--715},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{guthrie2019human,
+  title={The human gut chemical landscape predicts microbe-mediated biotransformation of foods and drugs},
+  author={Guthrie, Leah and Wolfson, Sarah and Kelly, Libusha},
+  journal={Elife},
+  volume={8},
+  pages={e42866},
+  year={2019},
+  publisher={eLife Sciences Publications Limited}
+}
+
+@article{han2021metabolomics,
+  title={A metabolomics pipeline for the mechanistic interrogation of the gut microbiome},
+  author={Han, Shuo and Van Treuren, Will and Fischer, Curt R and Merrill, Bryan D and DeFelice, Brian C and Sanchez, Juan M and Higginbottom, Steven K and Guthrie, Leah and Fall, Lalla A and Dodd, Dylan and others},
+  journal={Nature},
+  volume={595},
+  number={7867},
+  pages={415--420},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+
+@article{guthrie2022impact,
+  title={Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes},
+  author={Guthrie, Leah and Spencer, Sean Paul and Perelman, Dalia and Van Treuren, Will and Han, Shuo and Yu, Feiqiao Brian and Sonnenburg, Erica D and Fischbach, Michael A and Meyer, Timothy W and Sonnenburg, Justin L},
+  journal={Cell Host \& Microbe},
+  year={2022},
+  publisher={Cell Press}
+}
