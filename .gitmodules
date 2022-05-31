@@ -1,0 +1,4 @@
+[submodule "ltcguthrie.github.io"]
+	path = ltcguthrie.github.io
+	url = https://github.com/ltcguthrie/ltcguthrie.github.io.git
+	branch = main
