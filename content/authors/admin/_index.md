@@ -20,7 +20,7 @@ bio: I am a postdoctoral researcher in Justin Sonnenburg’s lab at Stanford Uni
 interests:
   - Understanding the chemistry of human microbiomes
   - Mapping the chemical diversity of foods and drugs
-  - Engineering chemical interactions in microbial communties
+  - Defining microbial metabolites shaping human biology
 
 # Education to show in About widget
 education:
